@@ -4,7 +4,7 @@ The tool's goal is to help Dauphine's teachers to indicate their course's prefer
 Please find more informations in the folder /presentation/Java_presentation.pdf
 
 Contributors :
-● Tuan Nam DAVAUX
-● Victor CHEN
-● Louis FONTAINE
-● Samuel COHEN
+- Tuan Nam DAVAUX
+- Victor CHEN
+- Louis FONTAINE
+- Samuel COHEN
