@@ -3,7 +3,9 @@
 
 The tool's goal is to help Dauphine's teachers to indicate their course's preferences in specific excel template.
 
-Technologies used :
+This tool have been development during a Java course at Université Paris Dauphine in Licence MIAGE.
+
+<b>Technologies used</b> :
 - Back-end : Java
 - Front-end : Java SWT
 - MVC architecture
