@@ -24,7 +24,7 @@ This tool have been development during a Java course for Licence MIAGE at Univer
 
 Please find more informations in the folder /presentation/Java_presentation.pdf
 
-Contributors :
+<b>Contributors </b>:
 - Tuan Nam DAVAUX
 - Victor CHEN
 - Louis FONTAINE
